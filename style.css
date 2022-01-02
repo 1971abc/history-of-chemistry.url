@@ -1,0 +1,25 @@
+h1{position:relative ; text-shadow: black 5px 10px 10px;}
+table{width: 100%;}
+table td{text-align: center;border: 1px solid #ddd}
+table th{background-color: black;color: white;padding: 5px;}
+table tr:nth-child(2n+1){background-color: tomato;}
+p{text-align: justify;font-size: 20px;font-family: 'Times New Roman', Times, serif;font-style: initial;}
+a{background: cornflowerblue;color: cornsilk;padding: 20px 40px;text-decoration: none;border-radius: 6px;}
+a:hover{background-color:blue ;transition: 1s;}
+.ok{width:"100%";max-width: 500px;margin: 20px auto;}
+.ok input{width: 10;}
+.slider-frame{overflow: hidden;height:"800px";width:"1200px";
+margin-left: 360px;margin-top: 20px;}
+   
+
+
+
+
+
+
+
+
+
+
+
+
